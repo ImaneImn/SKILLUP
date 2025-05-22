@@ -67,8 +67,13 @@ PowerPoint slides are included to support the project presentation.
 
 ## 🧑‍💻 Authors
 
-- 👤 **Your Name**
-- 👥 Collaborators (if any)
+- 👤 **Chabane Imane**
+- 👤 **Tebigui safa wissam**
+- 👤 **Zerar naila wissem**
+- 👤 **Darouich hadil bouchra**
+- 👤 **Nour lannani**
+- 👤 **nait belkacem hadjer**
+
 
 ---
 
