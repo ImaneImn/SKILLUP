@@ -1,6 +1,6 @@
 # 🚀 SkillUP Web Project
 
-![HTML Badge](https://img.shields.io/badge/HTML-Expert-orange?logo=html5) ![Project Status](https://img.shields.io/badge/Status-Completed-brightgreen) ![License Badge](https://img.shields.io/badge/License-MIT-blue)
+![HTML Badge](https://img.shields.io/badge/HTML-Expert-orange?logo=html5) ![Project Status](https://img.shields.io/badge/Status-Completed-brightgreen) ![License Badge](https://img.shields.io/badge/License-USTHB-blue)
 
 > ✨ A modern, responsive web page designed to promote learning and professional skill development online.
 
