@@ -21,8 +21,8 @@
 ## 🛠️ Built With
 
 - **HTML5** – Core structure of the page
-- **CSS3** *(optional)* – For styling and layout (if used)
-- *(Optionally)* **JavaScript** – Add if interactivity is included
+- **CSS3**  – For styling and layout (if used)
+- **JavaScript** – Add if interactivity is included
 
 ---
 
@@ -39,7 +39,7 @@ projets-web/
 ## 💡 Features
 
 - 🎯 Clean and professional layout
-- 📱 Responsive design (mobile-friendly)
+- 📱 Responsive design
 - 💼 Ideal for portfolios, learning platforms, and presentations
 
 ---
@@ -55,13 +55,6 @@ open SkillUP.html
 ```
 
 Or just double-click `SkillUP.html` after downloading the repo.
-
----
-
-## 📽️ Presentation Slides
-
-PowerPoint slides are included to support the project presentation.  
-> *(You can link the file here once it's uploaded to the repository.)*
 
 ---
 
